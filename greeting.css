@@ -41,3 +41,15 @@
 	height: 100%;
 	overflow-y: hidden;
 }
+
+.greet {
+  position: relative;
+  
+}
+
+.txt {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+}
